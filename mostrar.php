@@ -11,6 +11,9 @@ $result = $conn->query($sql);
     <title>Read Users</title>
 </head>
 <body>
+
+<td><a href='insertar.php'>Registrar</a></td>
+
     <table border="3">
         <tr>
             <th>ID</th>
